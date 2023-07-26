@@ -38,6 +38,12 @@ Welcome to our Git repository for the 5th semester web development projects! Thi
 + __Security__ : Be cautious about storing sensitive information in the repository. Avoid committing credentials or API keys. Utilize environment variables for sensitive data.
 
 
+## Code Review
+
+All pull requests will undergo a code review process. Reviewers will provide feedback, and once the code is approved, it will be merged into the main project branch.
+
+
+
 ## Collaboration
 
 Collaboration is the key to success in any project. Work together, share knowledge, and support each other throughout the semester. If you encounter any issues or have questions, don't hesitate to reach out to your team members or use the repository's issue tracker.
@@ -48,7 +54,8 @@ Let's make this semester a productive and enjoyable learning experience! Happy c
 ## Resources
 > Here are some helpful resources to improve your skills with the tech stacks we'll be using:
 
-MDN Web Docs: A comprehensive resource for web development technologies.
-React Documentation: Official documentation for React JS.
-MERN Stack Tutorial: A guide to getting started with the MERN stack.
-Let's create amazing web development projects together and make the most of our 5th semester! Happy coding! 🚀
++ __[MDN Web Docs](https://developer.mozilla.org/en-US/)__ : A comprehensive resource for web development technologies.
++ __[React Documentation](https://legacy.reactjs.org/docs/getting-started.html)__ : Official documentation for React JS.
++ __[MERN Stack Tutorial](https://www.mongodb.com/languages/mern-stack-tutorial)__ : A guide to getting started with the MERN stack.
+  
+ Let's create amazing web development projects together and make the most of our 5th semester! Good Luck :+1: and Happy coding! 🚀
