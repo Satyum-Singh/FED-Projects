@@ -15,6 +15,19 @@ Welcome to our Git repository for the 5th semester web development projects! Thi
 
 1. __MERN Stack__ : The MERN stack comprises four technologies - MongoDB (database), ExpressJS (back-end framework), ReactJS (front-end library), and Node.js (server-side runtime). It's a powerful combination for building full-stack web applications.
 
+
+## Getting Started
+> To get started with contributing to the projects, follow these steps:
+
+1. Clone the repository to your local development environment.
+1. Create a new branch for each project you'll be working on.
+1. Set up the required development environment, including Node.js and other dependencies, as needed.
+1. Choose a project from the list of proposed ideas or suggest a new one.
+1. Start coding and commit your changes regularly.
+1. Push your changes to your feature branch and create a pull request when you're ready for code review.
+
+
+
 ## Guidelines
 
 + __Branching__ : Each project should have its own branch. When starting a new project, create a new branch from the __'main'__ branch and give it a descriptive name.
