@@ -12,14 +12,19 @@
     />
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body>
+  <body class="show-chatbot">
+    <button class="chatbot-toggler">
+      <span class="material-symbols-outlined toy">mode_comment</span>
+      <span class="material-symbols-outlined toy">close</span>
+    </button>
     <div class="chatbot">
       <header>
         <h2>ChatBot</h2>
+        <span class="material-symbols-outlined toy">close</span>
       </header>
       <ul class="chatbox">
         <li class="chat incoming">
-          <span class="material-symbols-outlined">smart_toy</span>
+          <span class="material-symbols-outlined toy">smart_toy</span>
           <p>
             Hi there 👋 <br />
             How can I help you today?
@@ -28,14 +33,13 @@
 
         <li class="chat outgoing">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-            sapiente voluptates, incidunt harum modi expedita voluptate iure
-            hic. Iste, praesentium.
+            Tell me about latest news, which companies are going to hire in
+            recent months?
           </p>
         </li>
       </ul>
       <div class="chat-input">
-        <textarea placeholder="Enter the message... "></textarea>
+        <textarea placeholder="Enter the message... " required></textarea>
         <span id="send-btn" class="material-symbols-outlined">send</span>
       </div>
     </div>
