@@ -1,6 +1,6 @@
 # FED-Projects
 
-Welcome to our Git repository for the 5th semester web development projects! This repository is intended to be used by Group-4 students to collaborate on building exciting web development projects using various technologies, including __HTML, CSS, JavaScript, ReactJS,__ and the __MERN__ stack. Below, you'll find essential information and guidelines to help you get started.
+Welcome to our Git repository for the 5th semester web development projects! This repository is intended to be used by students to collaborate on building exciting web development projects using various technologies, including __HTML, CSS, JavaScript, ReactJS,__ and the __MERN__ stack. Below, you'll find essential information and guidelines to help you get started.
 
 
 ## Tech Stack 
