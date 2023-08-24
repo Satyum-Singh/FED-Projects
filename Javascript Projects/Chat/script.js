@@ -1,0 +1,1 @@
+const sendChatBtn = document.getElementById(".chat-input span");
