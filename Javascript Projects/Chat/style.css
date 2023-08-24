@@ -21,18 +21,20 @@ body{
     width: 50px;
     color: #fff;
     border: none;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     outline: none;
     background-color: #724ae8;
     border-radius: 50%;
+    display: flex;
+    align-items: center;
+    
 }
 
 .chatbot-toggler span{
     position: absolute;
     height: 2px;
-    ;
+    align-self: center;
+    margin-bottom: 20px ;
+    margin-left: 12px;
 }
 
 .show-chatbot .chatbot-toggler span:first-child,
@@ -70,18 +72,23 @@ body{
     background: #724ae8;
     padding: 16px 0px;
     text-align: center;
+    display: flex;
+    justify-content:space-between
 }
 
 .chatbot header h2{
     color: #fff;
     font-size: 1.4rem;
+    margin-left: 12px;
 }
 
 .chatbot header span{
-    position: absolute;
-    top: 50%;
-    color: black;
-    cursor: pointer ;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-left: 5px;
+    nav-right: current;
+    right: 30px;
 }
 
 .chatbot .chatbox{
